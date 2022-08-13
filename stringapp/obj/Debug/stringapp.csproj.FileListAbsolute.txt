@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Self-education\Beetroot\stringapp\stringapp\bin\Debug\stringapp.exe.config
+C:\Users\User\Desktop\Self-education\Beetroot\stringapp\stringapp\bin\Debug\stringapp.exe
+C:\Users\User\Desktop\Self-education\Beetroot\stringapp\stringapp\bin\Debug\stringapp.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\stringapp\stringapp\obj\Debug\stringapp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Self-education\Beetroot\stringapp\stringapp\obj\Debug\stringapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Self-education\Beetroot\stringapp\stringapp\obj\Debug\stringapp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\stringapp\stringapp\obj\Debug\stringapp.exe
+C:\Users\User\Desktop\Self-education\Beetroot\stringapp\stringapp\obj\Debug\stringapp.pdb
