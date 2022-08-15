@@ -62,7 +62,7 @@ namespace stringapp
                     if(fWord[i] == sWord[j])
                         Console.Write(fWord[i]+" ");
 
-        }
+        }//such realization will return all matches, i.e. the mathed chars will be displayed more than once (in case several matches) - but accroding to home work conditions, the matched char display must be once for every char
         static void Main(string[] args)
         {
             bool theSame;
@@ -91,3 +91,4 @@ namespace stringapp
         }
     }
 }
+//checked
